@@ -1,0 +1,29 @@
+.imgs {
+    display: flex;
+    position: relative;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    bottom: 4vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.bot-img-div {
+    width: 80vw;
+    justify-content: center;
+    object-fit: cover;
+}
+.bot-img {
+    height: auto;
+    display: inline-block;
+    width: 70vw;
+    bottom: 20vh;
+}
+
+.carousel {
+    height: 40vh;
+    width:40vw;
+
+}
+
